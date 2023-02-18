@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: rgb(205, 205, 205);
+    color:rgb(0, 99, 185);
+    text-align: center;
+}
+
+#keyCode {
+    font-size: 100px;
+}
+
+#key {
+    font-size: 80px;
+}
